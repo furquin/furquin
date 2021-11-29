@@ -1,4 +1,4 @@
-# Hi, my name is laerth furquin!
+# Hi, my name is laert furquin!
 
 ## I'm 24 years old, Brazilian, I love animals especially snakes, I currently live in Brasilia.🐍🐍🐍
 ## I'm a full stack programming student at trybe!! 📗📗📗
