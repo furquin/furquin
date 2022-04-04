@@ -1,8 +1,8 @@
 # Olá!
 
-### Prazer, Laert Furquin, tenho 25 anos , amo animais, praias
-### sou muito descontraído e agitado. 
-### trabalho com desenvolvimento Full-stack (back-end, front-end), ainda em início de carreira, porém muito empolgado! 
+### Prazer, Laert Furquin, tenho 25 anos , amo animais e praias.
+### Sou muito descontraído e agitado. 
+### Trabalho com desenvolvimento Full-stack (back-end, front-end), ainda em início de carreira, porém muito empolgado! 
 ### Sempre busco novos desafios e possibilidades de me destacar, mostrando do que sou capaz. Sou muito curioso, alegre e muito dedicado.
 
 <div align="center">
