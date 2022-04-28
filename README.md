@@ -30,8 +30,8 @@
 <div> 
   
   <a href="https://www.linkedin.com/in/laert-furquin-4208a9168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  #
   <a href="https://furquin.github.io/laertFurquin/#/" target="_blank">PORTFÓLIO</a> 
+  <a href = "mailto:laert.ff@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
  
