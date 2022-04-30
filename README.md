@@ -1,9 +1,18 @@
 # Olá!
 
-### Prazer, Laert Furquin, tenho 25 anos , amo animais e praias.
-### Sou muito descontraído e agitado. 
-### Trabalho com desenvolvimento de software Full-stack, ainda em início de carreira, porém muito empolgado! 
-### Sempre busco novos desafios e possibilidades de me destacar, mostrando do que sou capaz. Sou muito curioso, alegre e muito dedicado.
+### Prazer, Laert Furquin, tenho 25 anos.
+### Sou Desenvolvedor Junior Full-Stack, ainda em início de carreira, porém muito empolgado e animado. 
+### Tenho experiência com JavaScript, Typescript, NodeJS, ReactJS, Html e CSS.
+### Sempre busco novas motivações e desafios visando sempre destacar, mostrando minha capacidade.
+### Sou muito curioso e dedicado.
+
+- Veja meu LinkedIn: <a href="https://www.linkedin.com/in/laert-furquin-4208a9168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+- Veja meu Portfólio: <a href="https://furquin.github.io/laertFurquin/#/" target="_blank">PORTFÓLIO</a>
+
+- Me contate por e-mail:<img width="25" heigth="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" /> laert.ff@gmail.com <img width="25" heigth="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
+
+- Me contate por WhatsZap: <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670051.png?token=exp=1651355326~hmac=f612c89d71289c1f492cde6ff50c1ccf" /> +55 61 9.9120-5922 <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670051.png?token=exp=1651355326~hmac=f612c89d71289c1f492cde6ff50c1ccf" />
 
 <div align="center">
   <a href="https://github.com/furquin">
@@ -24,15 +33,3 @@
   <img align="center" alt="furquin-jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
  
-#
-#
-  
-<div> 
-  
-  <a href="https://www.linkedin.com/in/laert-furquin-4208a9168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://furquin.github.io/laertFurquin/#/" target="_blank">PORTFÓLIO</a> 
-  <a href = "mailto:laert.ff@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
- 
-</div>
