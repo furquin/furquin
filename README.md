@@ -1,6 +1,6 @@
 # Olá!
 
-### Prazer, Laert Furquin, tenho 25 anos.
+### Prazer, me chamo Laert Furquin, tenho 25 anos.
 ### Sou Desenvolvedor Junior Full-Stack, ainda em início de carreira, porém muito empolgado e animado. 
 ### Tenho experiência com JavaScript, Typescript, NodeJS, ReactJS, Html e CSS.
 ### Sempre busco novas motivações e desafios visando sempre destacar, mostrando minha capacidade.
