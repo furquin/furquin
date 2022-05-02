@@ -6,7 +6,7 @@
 ### Sempre busco novas motivações e desafios visando sempre destacar, mostrando minha capacidade.
 ### Sou muito curioso e dedicado.
 
-- Veja meu LinkedIn: <a href="https://www.linkedin.com/in/laert-furquin-4208a9168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- Veja meu LinkedIn: <a href="https://www.linkedin.com/in/laert-furquin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 - Veja meu Portfólio: <a href="https://furquin.github.io/laertFurquin/#/" target="_blank">PORTFÓLIO</a>
 
