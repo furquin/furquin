@@ -12,7 +12,7 @@
 
 - Me contate por e-mail:<img width="25" heigth="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" /> laert.ff@gmail.com <img width="25" heigth="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
 
-- Me contate por WhatsZap: <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670051.png?token=exp=1651355326~hmac=f612c89d71289c1f492cde6ff50c1ccf" /> +55 61 9.9120-5922 <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670051.png?token=exp=1651355326~hmac=f612c89d71289c1f492cde6ff50c1ccf" />
+- Me contate por WhatsZap: <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png?token=exp=1652795580~hmac=bf663cd3048a91304d2749136647cef8" /> +55 61 9.9120-5922 <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png?token=exp=1652795580~hmac=bf663cd3048a91304d2749136647cef8" />
 
 <div align="center">
   <a href="https://github.com/furquin">
