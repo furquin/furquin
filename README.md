@@ -1,9 +1,9 @@
 # Olá!
 
 ### Prazer, me chamo Laert Furquin, tenho 25 anos.
-### Sou Desenvolvedor Junior Full-Stack, ainda em início de carreira, porém muito empolgado e animado. 
-### Tenho experiência com JavaScript, Typescript, NodeJS, ReactJS, Html e CSS.
-### Sempre busco novas motivações e desafios visando sempre destacar, mostrando minha capacidade.
+### Sou Desenvolvedor Junior Full-Stack, em busca de uma oportunidade para aprimorar minhas habilidades em desenvolvimento web.
+### Tenho experiência com JavaScript, Typescript, NodeJS, ExpressJs, Sequelize, MySQL, MongoDB, ReactJS, Html e CSS.
+### Gosto de buscar novos desafios visando sempre me aprimorar meus conhecimentos e testar minha capacidade.
 ### Sou muito curioso e dedicado.
 
 - Veja meu LinkedIn: <a href="https://www.linkedin.com/in/laert-furquin/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
 
 - Me contate por e-mail:<img width="25" heigth="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" /> laert.ff@gmail.com <img width="25" heigth="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
 
-- Me contate por WhatsZap: <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png?token=exp=1652795580~hmac=bf663cd3048a91304d2749136647cef8" /> +55 61 9.9120-5922 <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png?token=exp=1652795580~hmac=bf663cd3048a91304d2749136647cef8" />
+- Me contate por whatsapp: <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png?token=exp=1652795580~hmac=bf663cd3048a91304d2749136647cef8" /> +55 61 9.9120-5922 <img width="25" heigth="25" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png?token=exp=1652795580~hmac=bf663cd3048a91304d2749136647cef8" />
 
 <div align="center">
   <a href="https://github.com/furquin">
