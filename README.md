@@ -3,7 +3,7 @@
 ### Prazer, me chamo Laert Furquin, tenho 25 anos.
 ### Sou Desenvolvedor Junior Full-Stack, em busca de uma oportunidade para aprimorar minhas habilidades em desenvolvimento web.
 ### Tenho experiência com JavaScript, Typescript, NodeJS, ExpressJs, Sequelize, MySQL, MongoDB, ReactJS, Html e CSS.
-### Gosto de buscar novos desafios visando sempre me aprimorar meus conhecimentos e testar minha capacidade.
+### Gosto de buscar novos desafios visando sempre aprimorar meus conhecimentos e testar minha capacidade.
 ### Sou muito curioso e dedicado.
 
 - Veja meu LinkedIn: <a href="https://www.linkedin.com/in/laert-furquin/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
