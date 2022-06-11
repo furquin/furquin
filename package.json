@@ -1,0 +1,23 @@
+{
+  "name": "furquin",
+  "version": "1.0.0",
+  "description": "<p style=\"font-size:17px; line-height: 25px;\">  Prazer, me chamo Laert Furquin, tenho 25 anos.<br> Sou Desenvolvedor Junior Full-Stack, em busca de uma oportunidade para aprimorar minhas habilidades em desenvolvimento web.<br> Tenho experiência com JavaScript, Typescript, NodeJS, ExpressJs, Sequelize, MySQL, MongoDB, ReactJS, Html e CSS.<br> Gosto de buscar novos desafios visando sempre aprimorar meus conhecimentos e testar minha capacidade.<br> Sou muito curioso e dedicado.<br> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furquin/furquin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furquin/furquin/issues"
+  },
+  "homepage": "https://github.com/furquin/furquin#readme",
+  "dependencies": {
+    "github-markdown-css": "^5.1.0"
+  }
+}
