@@ -1,11 +1,11 @@
   <p  text-align="center" > 
   Prazer, me chamo Laert Furquin, tenho 25 anos.<br>
   <br>
-  Sou Desenvolvedor Junior Full-Stack, em busca de uma oportunidade para aprimorar minhas habilidades em desenvolvimento web.<br>
+  Sou Desenvolvedor Back-end Junior, em busca de uma oportunidade para aprimorar minhas habilidades em desenvolvimento web.<br>
   <br>
   Tenho experiência com JavaScript, Typescript, NodeJS, ExpressJs, Sequelize, MySQL, MongoDB, ReactJS, Html e CSS.<br>
   <br>
-  Gosto de buscar novos desafios visando sempre aprimorar meus conhecimentos e testar minha capacidade.<br>
+  Gosto de buscar novos desafios sempre tentando aprimorar meus conhecimentos e testar meus limites.<br>
   <br>
   Sou muito curioso e dedicado.<br>
   <br>
