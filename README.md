@@ -1,13 +1,15 @@
   <p  text-align="center" > 
-  Prazer, me chamo Laert Furquin, tenho 25 anos.<br>
+  Prazer, me chamo Laert Furquin, tenho 26 anos.<br>
   <br>
-  Sou Desenvolvedor Back-end Junior, em busca de uma oportunidade para aprimorar minhas habilidades em desenvolvimento web.<br>
+  Sou desenvolvedor Backend, buscando novas experiências para aprimorar minhas habilidades como desenvolvedor.<br>
   <br>
-  Tenho experiência com JavaScript, Typescript, NodeJS, ExpressJs, Sequelize, MySQL, MongoDB, ReactJS, Html e CSS.<br>
+  Tenho 2 anos de experiência com JavaScript, Typescript, NodeJS, TypeORM, Prisma, NestJS e Postgres.<br>
   <br>
-  Gosto de buscar novos desafios sempre tentando aprimorar meus conhecimentos e testar meus limites.<br>
+  Também tenho vasto conhecimento em ExpressJs, Sequelize, MySQL, MongoDB, ReactJS, Html e CSS, Vue, Quasar.<br>
   <br>
-  Sou muito curioso e dedicado.<br>
+  Atualmente estou estudando análise de dados com python.<br>
+  <br>
+  Sou muito organizado e dedicado.<br>
   <br>
   </p>
 
