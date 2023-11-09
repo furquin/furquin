@@ -1,18 +1,25 @@
-  <p  text-align="center" > 
-  Prazer, me chamo Laert Furquin, tenho 26 anos.<br>
-  <br>
-  Sou desenvolvedor Backend, buscando novas experiências para aprimorar minhas habilidades como desenvolvedor.<br>
-  <br>
-  Tenho 2 anos de experiência com JavaScript, Typescript, NodeJS, TypeORM, Prisma, NestJS e Postgres.<br>
-  <br>
-  Também tenho vasto conhecimento em ExpressJs, Sequelize, MySQL, MongoDB, ReactJS, Html e CSS, Vue, Quasar.<br>
-  <br>
-  Atualmente estou estudando análise de dados com python.<br>
-  <br>
-  Sou muito organizado e dedicado.<br>
-  <br>
+  <p text-align="center" >
+              Aos 18 anos tomei a decisão de sair de casa para novas aventuras.
+              Servi dois anos no exército, onde desenvolvi habilidades como
+              gestão do tempo, disciplina e trabalho em equipe.
+              <br />
+              <br />
+              Durante esse período, descobri minha afinidade com a tecnologia.
+              Após deixar o serviço militar, direcionei minha carreira para a
+              área de tecnologia. Inicialmente sem um foco específico, então
+              descobri o desenvolvimento web durante pesquisas sobre criação de
+              apps de delivery.
+              <br />
+              <br />A partir dai iniciei uma jornada de estudos, desenvolvendo
+              habilidades em tecnologias como TypeScript, JavaScript, Node.js,
+              Nest.js, Prisma, TypeORM, Express.js, Sequelize, MySQL, Postgres
+              entre outras. Ao longo do tempo, também aprimorei minhas habilidades de
+              comunicação, criatividade, colaboração e visão de longo prazo.
+              <br />
+              <br />
+              Atualmente, busco novas oportunidades para aplicar e expandir
+              essas habilidades, continuando meu crescimento profissional.
   </p>
-
   <br>
   <br>
   
