@@ -38,28 +38,26 @@
   <br>
   <br>
 
-  <div>
-    <a href="https://github.com/furquin">
-      <img height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=furquin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furquin&layout=compact&langs_count=7&theme=blue"/>
-    </a>
-  </div>
-
-  <br>
-  <br>
 
   <div >
     <img  height="50" width="60"  alt="furquin-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img  height="50" width="60"  alt="furquin-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img  height="50" width="60"  alt="furquin-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img  height="50" width="60"  alt="furquin-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    <img  height="50" width="60"  alt="furquin-redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
     <img  height="50" width="60"  alt="furquin-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img  height="50" width="60"  alt="furquin-express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
     <img  height="50" width="60"  alt="furquin-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
     <img  height="50" width="60"  alt="furquin-mySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img  height="50" width="60"  alt="furquin-mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">  
     <img  height="50" width="60"  alt="furquin-jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    <img  height="50" width="60"  alt="furquin-ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img  height="50" width="60"  alt="furquin-adonis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+    <img  height="50" width="60"  alt="furquin-nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+    <img  height="50" width="60"  alt="furquin-postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img  height="50" width="60"  alt="furquin-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img  height="50" width="60"  alt="furquin-vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+    
+    
+          
   </div>
   
  </div>
