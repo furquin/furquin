@@ -23,7 +23,7 @@
     <a href='mailto:laert.ff@gmail.com' target='_blank'>
       <img height="25" width="100" src="./README/gmail-logo.png" />
     </a>
-    <a href='https://wa.me/5571984762497' target="_blank">
+    <a href='https://wa.me/5561991205922' target="_blank">
       <img height="25" width="100" src="./README/whatsapp-logo.png" /> 
     </a>
   
