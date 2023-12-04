@@ -1,24 +1,14 @@
   <p text-align="center" >
-              Aos 18 anos tomei a decisão de sair de casa para novas aventuras.
-              Servi dois anos no exército, onde desenvolvi habilidades como
-              gestão do tempo, disciplina e trabalho em equipe.
+              Prazer, me chamo Laert,desde cedo, aprendi a ser independente e responsável, auxiliando minha mãe com a casa e meus dois irmãos. Essa experiência me trouxe muito amadurecimento, e aos 14 anos iniciei meus planos para sair de casa, e aos 18 decidi sair de casa em busca de novas aventuras.
               <br />
               <br />
-              Durante esse período, descobri minha afinidade com a tecnologia.
-              Após deixar o serviço militar, direcionei minha carreira para a
-              área de tecnologia. Inicialmente sem um foco específico, então
-              descobri o desenvolvimento web durante pesquisas sobre criação de
-              apps de delivery.
-              <br />
-              <br />A partir dai iniciei uma jornada de estudos, desenvolvendo
-              habilidades em tecnologias como TypeScript, JavaScript, Node.js,
-              Nest.js, Prisma, TypeORM, Express.js, Sequelize, MySQL, Postgres
-              entre outras. Ao longo do tempo, também aprimorei minhas habilidades de
-              comunicação, criatividade, colaboração e visão de longo prazo.
+              Durante dois anos, servi ao exército, adquirindo habilidades essenciais como gestão do tempo, disciplina e trabalho em equipe, que moldaram minha personalidade. Nesse período, também explorei minha afinidade com a tecnologia. Após deixar o serviço militar, direcionei minha carreira para a área de tecnologia, inicialmente sem um foco específico.
               <br />
               <br />
-              Atualmente, busco novas oportunidades para aplicar e expandir
-              essas habilidades, continuando meu crescimento profissional.
+              Minha trajetória tomou forma quando descobri o desenvolvimento web. Iniciei uma jornada de estudos, construindo aplicação frontend e API's backend, desenvolvendo habilidades técnicas em tecnologias como TypeScript, JavaScript, Node.js, Nest.js, Docker, RabbitMQ, entre outras. Ao longo do tempo, aprimorei minhas competências em comunicação, criatividade e colaboração, trabalhando em diversos projetos.
+              <br />
+              <br />
+             Atualmente, busco novas oportunidades para aplicar e expandir essas habilidades, continuando meu crescimento profissional.
   </p>
   <br>
   <br>
