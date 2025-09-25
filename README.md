@@ -1,14 +1,13 @@
   <p text-align="center" >
-              Prazer, me chamo Laert,desde cedo, aprendi a ser independente e responsável, auxiliando minha mãe com a casa e meus dois irmãos. Essa experiência me trouxe muito amadurecimento, e aos 14 anos iniciei meus planos para sair de casa, e aos 18 decidi sair de casa em busca de novas aventuras.
+              Sou desenvolvedor de software com foco em backend com Node.js, nos últimos anos trabalhei profissionalmente com NestJS, Express, TypeScript, Sequelize, Prisma, Redis, PostgreSQL, MySQL e Vue.js. 
               <br />
               <br />
-              Durante dois anos, servi ao exército, adquirindo habilidades essenciais como gestão do tempo, disciplina e trabalho em equipe, que moldaram minha personalidade. Nesse período, também explorei minha afinidade com a tecnologia. Após deixar o serviço militar, direcionei minha carreira para a área de tecnologia, inicialmente sem um foco específico.
+              Minha trajetória começou cedo, assumindo responsabilidades em casa, no exército, onde fortalecei minha disciplina, organização e capacidade de trabalho em equipe. Levei esses valores para a tecnologia, e busco constantemente criar sistemas eficientes e escaláveis.
               <br />
               <br />
-              Minha trajetória tomou forma quando descobri o desenvolvimento web. Iniciei uma jornada de estudos, construindo aplicação frontend e API's backend, desenvolvendo habilidades técnicas em tecnologias como TypeScript, JavaScript, Node.js, Nest.js, Docker, RabbitMQ, entre outras. Ao longo do tempo, aprimorei minhas competências em comunicação, criatividade e colaboração, trabalhando em diversos projetos.
+              Gosto de desafios que envolvam otimização de performance, refatoração e manutenção de sistemas legados e integração entre APIs. Também me motiva lidar diretamente com as demandas dos clientes, seja na solução de problemas ou na criação de melhorias que geram impacto imediato. Estou sempre buscando evoluir como profissional e gerar impacto real através da tecnologia.
               <br />
               <br />
-             Atualmente, busco novas oportunidades para aplicar e expandir essas habilidades, continuando meu crescimento profissional.
   </p>
   <br>
   <br>
@@ -31,25 +30,18 @@
   <br>
 
 
-  <div >
-    <img  height="50" width="60"  alt="furquin-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img  height="50" width="60"  alt="furquin-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img  height="50" width="60"  alt="furquin-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img  height="50" width="60"  alt="furquin-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    <img  height="50" width="60"  alt="furquin-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img  height="50" width="60"  alt="furquin-express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img  height="50" width="60"  alt="furquin-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-    <img  height="50" width="60"  alt="furquin-mySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img  height="50" width="60"  alt="furquin-jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-    <img  height="50" width="60"  alt="furquin-ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img  height="50" width="60"  alt="furquin-adonis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-    <img  height="50" width="60"  alt="furquin-nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-    <img  height="50" width="60"  alt="furquin-postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img  height="50" width="60"  alt="furquin-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img  height="50" width="60"  alt="furquin-vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-    
-    
-          
-  </div>
+  <div>
+    <img height="85" width="85" alt="furquin-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img height="85" width="85" alt="furquin-nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" />
+    <img height="85" width="85" alt="furquin-ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img height="85" width="85" alt="furquin-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img height="85" width="85" alt="furquin-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img height="85" width="85" alt="furquin-postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img height="85" width="85" alt="furquin-vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />          
+    <img height="85" width="85" alt="furquin-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img height="85" width="85" alt="furquin-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+    <img height="85" width="85" alt="furquin-redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
+    <img height="85" width="85" alt="furquin-rabbitmq" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+</div>
   
  </div>
