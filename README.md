@@ -12,23 +12,21 @@
   <br>
   <br>
   
-  <div class="contatos" >
-    <a href="https://www.linkedin.com/in/laert-furquin/" target="_blank">
-      <img height="25" width="100" src="./README/linkedin-logo.png" target="_blank ">
-    </a>
-    <a href="https://furquin.github.io/laertFurquin/#/" target="_blank">
-      <img height="25" width="100" src="./README/portfólio-logo.png" target="_blank ">
-    </a>
-    <a href='mailto:laert.ff@gmail.com' target='_blank'>
-      <img height="25" width="100" src="./README/gmail-logo.png" />
-    </a>
-    <a href='https://wa.me/5561991205922' target="_blank">
-      <img height="25" width="100" src="./README/whatsapp-logo.png" /> 
-    </a>
-  
-  <br>
-  <br>
+<div class="contatos">
+  <a href="https://www.linkedin.com/in/laert-furquin/" target="_blank" rel="noopener noreferrer">
+    <img height="25" width="100" src="./README/linkedin-logo.png" alt="LinkedIn">
+  </a>
+  <a href="https://furquin.github.io/laertFurquin/#/" target="_blank" rel="noopener noreferrer">
+    <img height="25" width="100" src="./README/portfólio-logo.png" alt="Portfólio">
+  </a>
+  <a href="mailto:laert.ff@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img height="25" width="100" src="./README/gmail-logo.png" alt="Gmail">
+  </a>
+  <a href="https://wa.me/5561991205922" target="_blank" rel="noopener noreferrer">
+    <img height="25" width="100" src="./README/whatsapp-logo.png" alt="WhatsApp">
+  </a>
 
+  <br><br>
 
   <div>
     <img height="65" width="65" alt="furquin-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -42,5 +40,6 @@
     <img height="65" width="65" alt="furquin-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
     <img height="65" width="65" alt="furquin-redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
     <img height="65" width="65" alt="furquin-rabbitmq" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
-</div>  
- </div>
+  </div>  
+</div>
+
