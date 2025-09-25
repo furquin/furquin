@@ -14,18 +14,19 @@
   
 <div class="contatos">
   <a href="https://www.linkedin.com/in/laert-furquin/" target="_blank" rel="noopener noreferrer">
-    <img height="25" width="100" src="./README/linkedin-logo.png" alt="LinkedIn">
+    <img width="179" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
   <a href="https://furquin.github.io/laertFurquin/#/" target="_blank" rel="noopener noreferrer">
-    <img height="25" width="100" src="./README/portfólio-logo.png" alt="Portfólio">
+    <img width="179" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitbook/gitbook-original.svg" alt="Portfólio">
   </a>
   <a href="mailto:laert.ff@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="25" width="100" src="./README/gmail-logo.png" alt="Gmail">
+    <img width="179" height="65" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail">
   </a>
   <a href="https://wa.me/5561991205922" target="_blank" rel="noopener noreferrer">
-    <img height="25" width="100" src="./README/whatsapp-logo.png" alt="WhatsApp">
+    <img width="179" height="65" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp">
   </a>
-
+</div>
+<div class="competencias">
   <br><br>
 
   <div>
